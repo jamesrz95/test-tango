@@ -19,7 +19,7 @@ There are two ways you can input the Nth number:
 
 ## Installation
 
-Download zip file or make or you can clone the project.
+Download zip file or you can clone the project.
 ```bash
 git clone https://github.com/jamesrz95/test-tango.git
 
