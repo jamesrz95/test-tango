@@ -28,7 +28,7 @@ This project was made with VS Code.
 
 You can open a new terminal in your VS Code and for each folder, you will need to install the dependencies
 
-!!Note, you need nvm v16 or above to run code so chanve your version.
+!!Note, you need nvm v16 or above to run code so make changes if needed.
 ```bash
   nvm use v16
 ```
