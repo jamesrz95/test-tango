@@ -19,7 +19,11 @@ There are two ways you can input the Nth number:
 
 ## Installation
 
-Download zip file or make a fork to the project.
+Download zip file or make or you can clone the project.
+```bash
+git clone https://github.com/jamesrz95/test-tango.git
+
+```
 This project was made with VS Code.
 
 You can open a new terminal in your VS Code and for each folder, you will need to install the dependencies
