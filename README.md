@@ -64,4 +64,4 @@ For making an input to the REST API you will type in the browser
     http://localhost:3333/api/fibonacci/{Inputnumber}
 ```
 
-And then, you will need to reload the React App to see the input from and result from API.
+And then, you will need to reload the React App to see the input and result from API.
